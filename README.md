@@ -1,5 +1,7 @@
 ## Gitkit <img src="/public/github.png" alt="GitHub logo" width="25" height="25" style="vertical-align:middle;" />
 
+[Live Demo](https://gitkit-github-finder.vercel.app/)
+
 Gitkit is a React-based web application for searching GitHub users and displaying their profiles. It features a modern UI, recent searches, suggestions, and user cards for a smooth user experience.
 
 ### Features
