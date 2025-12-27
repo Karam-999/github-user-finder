@@ -14,7 +14,7 @@ const SuggestionsDrop = ({
   if (!show || suggestionns.length === 0) return null;
   return (
     <ul className='suggestions'>
-      {suggestionns.slice(0, 10).map((user: GitHubUser) => (
+      {suggestionns.slice(0, 100).map((user: GitHubUser) => (
         <li
           key={user.login}
           onClick={() => {
