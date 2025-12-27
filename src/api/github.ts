@@ -20,5 +20,3 @@ export const searchGitHubUser = async (query: string) => {
   console.log(data);
   return data.items;
 };
-
-// https://api.github.com/search/users?q=Q
